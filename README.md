@@ -80,9 +80,3 @@ Each monitor sends detailed **Discord webhooks** to your desired server for real
 ## 🛰 **Disclaimer**
 
 Use these scripts at your own risk. We do not assume any liability for the actions or consequences resulting from the use of our tools. Please use responsibly.
-
----
-
-## 📞 **Contact Us**
-
-For support or inquiries, reach out to us via our [official website](https://www.infinityscript.io) or join our community on **Discord**.
